@@ -129,7 +129,7 @@ For each case – regarding the noise intensity level – it was generated a sig
 
 <center><img src="imgs/high_noise_case.png" /></center>
 
-Observarions:
+Observations:
 
 * The distributions show a very distinct panorama from what could be inferred from the first experiment alone. This in-depth analysis indicates that the **high complexity** model has a very wide right tail whereas the **low complexity** model is much less skewd and its density function is more concentrated around its *expected* error.
 
