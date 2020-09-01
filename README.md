@@ -8,9 +8,10 @@ This repository introduces a project which aims to study and show the benefits o
 2. [Motivation](#motivation)
 3. [Introduction](#introduction)
 4. [Summary](#summary)
-    4.1. [Simulation Setup](#setup)
-    4.2. [Post Processing](#post-processing)
-    4.3. [Error Distribution Analysis](#error-analysis)
+
+    4.1. [Simulation Setup](#setup)    
+    4.2. [Post Processing](#post-processing)    
+    4.3. [Error Distribution Analysis](#error-analysis)    
     4.4. [Final Thoughts](#final-thoughts)
 
 ---
